@@ -1,6 +1,6 @@
 
 typedef struct
-{
+{ 
 	char* morse;
 	char* ascii;
 } morse_table_t;
